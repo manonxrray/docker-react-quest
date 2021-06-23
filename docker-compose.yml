@@ -1,0 +1,7 @@
+services:
+  server:
+    image: express-docker
+  mongodb:
+    image: mongo
+  client:
+    image: client
